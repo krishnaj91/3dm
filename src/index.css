@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  --bs-modal-padding: 0;
+}
+
+.test {
+}
+
+.test1 {
+  max-height: 50vh;
+  overflow-y: auto;
+}
